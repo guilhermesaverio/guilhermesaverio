@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Olá! Eu sou Guilherme Pereira
 
-<!--
-**guilhermesaverio/guilhermesaverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia  
+💻 Estudando **Java** e **SQL**  
+🚀 Interessado em desenvolvimento de software e banco de dados  
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/guilhermesaverio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesaverio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesaverio&layout=compact&langs_count=8&theme=dark"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
