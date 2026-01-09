@@ -4,12 +4,22 @@
 💻 Estudando **Java** e **SQL**  
 🚀 Interessado em desenvolvimento de software e banco de dados  
 
-<div align="center">
-  <a href="https://github.com/guilhermesaverio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesaverio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesaverio&layout=compact&langs_count=8&theme=dark"/>
-  </a>
-</div>
+<table align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="padding: 0;">
+      <img height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermesaverio&show_icons=true&theme=dracula"/>
+   
+</table>
+
+
+
+
+
+
+
+
+
 
 
 
