@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou Guilherme Savério
 
-🎓 Cursando Análise em Desenvolvimento de Sistemas  
+🎓 Cursando Análise e Desenvolvimento de Sistemas  
 💻 Estudando **Java** e **SQL**  
 🚀 Interessado em desenvolvimento de software e banco de dados 
 
