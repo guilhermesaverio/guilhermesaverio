@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou  Guilherme Savério👋</h1>
 
 ###
-<h4>👨‍💻 Estudante de Java e SQL | Explorando Back-end e desenvolvimento de projetos práticos</h4>
+<h4>👨‍💻 Estudante de ti, com o foco em C# .Net</h4>
 <h4>💡Cursando Tecnologia em Analise e Desenvolvimento de Sistemas</h4>
 
 ***
