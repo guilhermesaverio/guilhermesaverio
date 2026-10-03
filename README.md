@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou  Guilherme Savério👋</h1>
+<h1 align="center">Olá! Eu sou  Guilherme Savério</h1>
 
 ###
 <h4>👨‍💻 Estudante de ti, com o foco em C# .Net</h4>
@@ -6,13 +6,6 @@
 
 ***
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
-</div>
 
 ###
 <div align="center">
